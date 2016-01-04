@@ -3,7 +3,8 @@
 ]
 
 
-//add by mac 20160104
+//add by mac 20160104  
+//modified the file at github
 
 # 命令行的艺术
 
